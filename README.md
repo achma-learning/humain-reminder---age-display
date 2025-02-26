@@ -1,5 +1,5 @@
 # Mortality
-
+# how to make, custom extension, how to install ctomo extenstion, update and optimise with ai, with phase of moon and sun integrate into it, location setting, and update the theme, for more earth like or fucnton, like
 A Chrome extension that shows a live counter of your age to motivate you to live life to the fullest.
 
 ![Screenshot Light Theme](/images/screenshot_chrome_light.png?raw=true)
